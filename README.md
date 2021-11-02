@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @cappucciov
+- 👀 I’m interested in learning python, podman, k3s, ansible
